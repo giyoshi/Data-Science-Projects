@@ -1,6 +1,8 @@
 
 ## This is a 2D CNN project that I utilize Transfer Learning with DenseNet201, pretrained model to match various location scenes.
 
+## There are a total of 15 different location types.
+
 ![Location Scenes](../Location-Classification/Where-am-i.jpg)
 
 ## Tranfer Learning has become quite popular these dates because not only because the entire AI industry is evolving so fast and new models came out really fast but also it's probably cost efficient to use a pretrained model and utilize transfer learning rather than training a model from scratch.  It really depends on the situation.
