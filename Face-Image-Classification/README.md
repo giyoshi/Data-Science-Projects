@@ -1,6 +1,6 @@
 ## This is a 2D CNN project that I utilize Transfer Learning with DenseNet201, pretrained model to classify photos of girls.
 
-### There are a total of 5 different gorls.
+### There are a total of 5 different girls.
 
 ![Girls Photo](../Face-Image-Classification/who-is-she.jpg)
 
